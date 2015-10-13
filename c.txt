@@ -1,5 +1,3 @@
-this is c text file. Created for testing branches.
-
-
-
-delete null too.
+this is c text file.
+Created for testing branches.
+delete null.
